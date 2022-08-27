@@ -18,11 +18,12 @@ body{
     justify-content: center;
     /* background: rgba(240, 166, 19, 0.92); */
     color: black;
-    padding: 2em;
+    padding: 0;
     border-radius: 30px;
-    width: 100%;
+    width: 600px;
     margin: 0;
     border: 1px solid;
+    padding: 1em;
 
 }
 
@@ -58,8 +59,8 @@ p{
 }
 
 .icon{
-    width: 150px;
-    height: 150px;
+    width: 250px;
+    height: 250px;
 }
 .clima{
     justify-content: center;
